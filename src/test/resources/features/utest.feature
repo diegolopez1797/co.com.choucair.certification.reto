@@ -8,4 +8,6 @@ Feature: Utest
   Scenario: Registrarme en Utest
     Given que Diego quiere ser un provador de aplicaciones en Utest
     When el diligencia el formulario de registro en la plataforma de pruebas Utes
+      | strName      | StrLastName  | strEmail        |
+      | Diego        |  Lopez       | diego@gmail.com |
     Then el concluye su registro en la plataforma de pruebas Utes

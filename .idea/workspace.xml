@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c42cbe96-3e48-4655-9fb6-021b052833be" name="Default Changelist" comment="" />
+    <list default="true" id="c42cbe96-3e48-4655-9fb6-021b052833be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Juan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/reto/model/UtestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/reto/model/UtestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/5077d7832cba536cfd8261db2c6dc78ac6a179efef7f92e017f0ac5c8c373cda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/529a8f1cda5160a8b18734ae0318411a8fb5c86c116850971114489bbfb07370.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/7c4e295d9dbc2ac4b75a8dacf0b0dacc4f34ddd2bb5623f4c3f66ebac838cd02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/9c8504f70b9acbf4b458a445ba6b248bdf643caffdc1c048071c693813732683.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/df9e9f4e6a98e777bb12f727f02f11a9e4264ef4f720606edc0583c6311d95d1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/reto/tasks/SignUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/reto/tasks/SignUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/reto/userinterface/UtestSignUpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/certification/reto/userinterface/UtestSignUpPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/reto/stepdefinitions/UtestStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/reto/stepdefinitions/UtestStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Utest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Utest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.reto.runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.reto.runners.RunnerTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.reto.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.reto.runners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/features/utest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/features/utest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Utest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Utest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.reto.runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.reto.runners.RunnerTags.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/reto/tasks/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/reto/tasks/SignUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/reto/userinterface/UtestSignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/reto/userinterface/UtestSignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/reto/stepdefinitions/UtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/reto/stepdefinitions/UtestStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/utest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/utest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-4914fb0d77d679a8f4480e1508484d3ea985cdbb9cd174a3868e187248a0fa11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +67,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1yTJyFzdSxoE8X5KctX0GsHQvBV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -83,5 +132,18 @@
       <updated>1632269896631</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
